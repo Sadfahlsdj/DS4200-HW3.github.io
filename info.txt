@@ -1,0 +1,7 @@
+The hyperlink to the page can be found here: https://sadfahlsdj.github.io/DS4200-HW3.github.io
+
+CSS/Styling customizations done:
+The body font was changed to Open Sans, and the header font uses Poppin.
+The header of the website, which allows navigation between pages, has a blue background and has been prettified.
+The entire website has been centered.
+The footer of the website, which contains contact information, has a similar background to the header.
